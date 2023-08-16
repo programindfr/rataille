@@ -1,2 +1,2 @@
-# rataille
-rataille is an easy remote access tool made in c programming language.
+# Rataille
+Rataille is an easy to use remote access tool made in C programming language.
